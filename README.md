@@ -141,7 +141,7 @@ If you're also learning ML, working on fintech for Bharat, or just curious about
 
 <div align="center">
 
-*Built with curiosity, consistency, and a lot of chai ☕*
+*Built with curiosity, consistency, and a lot of coffee ☕*
 
 **Harshali · Kankavli, Sindhudurg, Maharashtra · 2026**
 
